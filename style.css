@@ -1,0 +1,36 @@
+.p1{
+    background-color: #60AD1F;
+}
+
+.p2{
+    background-color: #486416;
+}
+
+.p3{
+    background-color: #FDFFF9;
+}
+
+.p4{
+    background-color: #0A325E;
+}
+
+body{
+    background-color: #FDFFF9;
+
+}
+.c{
+    color: #FDFFF9;
+}
+
+.c1{
+    color: #0A325E;
+}
+
+.c2{
+    color: #60AD1F;
+}
+
+.tama{
+    width: 70px;
+    height: 70px;
+}
